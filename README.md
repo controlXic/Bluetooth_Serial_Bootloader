@@ -30,5 +30,6 @@ Needless to say, the STM32 is the king of peripherals and the gold standard amon
 - Windows desktop interface built with Qt.
 - Secure target device selection.
 - Optional password protection for remote devices.
+- Connect STM32CubeProgrammer and configure UART 115200 E81
 
 ![System Architecture](docs/interface.png)
