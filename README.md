@@ -1,7 +1,5 @@
 # Control Xic Bluetooth Bootloader  
 
-## Wireless STM32 Programming via Bluetooth
-
 ## Project Overview
 
 Program an STM32 microcontroller over Bluetooth using two ESP32s in a master-slave configuration.
