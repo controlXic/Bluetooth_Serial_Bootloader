@@ -32,10 +32,10 @@ Needless to say, the STM32 is the king of peripherals and the gold standard amon
 - Optional password protection for remote devices.
 - Connect STM32CubeProgrammer and configure UART 115200 E81  
 
-
-<img src="docs/demoBrd1.png" alt="System Architecture" width="500">
 Slave circuit example   
-  
-  
-<img src="docs/interface.png" alt="System Architecture" width="500">
+<img src="docs/demoBrd1.png" alt="System Architecture" width="500">
+
+
+
 Desktop Interface  
+<img src="docs/interface.png" alt="System Architecture" width="500">
