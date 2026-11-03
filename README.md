@@ -1,6 +1,6 @@
 # Control Xic Bluetooth Bootloader  
 
-# Wireless STM32 Programming via Bluetooth
+## Wireless STM32 Programming via Bluetooth
 
 ## Project Overview
 
